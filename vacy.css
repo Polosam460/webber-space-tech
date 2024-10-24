@@ -1,0 +1,56 @@
+  body{
+   font-family: Arial;
+   font-size: 17px;
+   margin: 0;
+   padding: 0;
+   
+  }
+
+header{
+ background: #032B44;
+ padding: 15px;
+ color: white;
+ display: flex;
+ align-items: center;
+}
+
+header a{
+ color: white;
+ font-size: 25px;
+}
+
+.container{
+ padding: 20px;
+}
+.privacy-title{
+   font-size: 30px;
+   word-spacing: 2px;  
+   font-weight: bold;
+    
+  }
+  
+  .privacy-description{
+    font-size: 17px;
+    word-spacing: 2px;
+  }
+
+  .key-principles-title{
+      font-size: 30px;
+   word-spacing: 2px;  
+   font-weight: bold;
+    
+  }
+  
+.key-principles-list
+{
+ list-style: square;
+ font-size: 16px;
+ gap: 10px;
+}
+.key-principle{
+ 
+ font-size: 16px;
+ gap: 10px;
+}
+
+
