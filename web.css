@@ -185,6 +185,7 @@ body{
 
 .sub_define{
   word-spacing: 2px;
+  font-size: 1em;
 }
 .serve{
   color: green;
@@ -193,10 +194,12 @@ body{
   text-decoration-color: limegreen;
   margin-bottom: 5px;
 }
+
 .center{
   display: grid;
   place-content: center;
 }
+
 .container_three{
   text-align: center;
   }
@@ -233,20 +236,23 @@ body{
   padding: 10px;
   background: #032B44;
   color: white;
+  font-size: 1em;
 }
 
 .container_five .mis_head{
   text-align: center;
   margin-bottom: 5px;
+  font-size: 22px;
 }
 
 .container_five .mis_par{
   text-align: center;
+  font-size: 1rem;
 }
 
 .container_five .con_head{
   text-align: center;
-  
+  font-size: 22px;
 }
 
 .container_five .icon_con{
@@ -262,6 +268,7 @@ body{
 }
 .mail{
   text-align: center;
+  font-size: 16px;
 }
 .end_nav_list{
   list-style: none;
@@ -279,6 +286,7 @@ body{
   color: white;
   text-decoration: none;
   display: block;
+  font-size: 16px;
 }
 
 .end_last{
@@ -293,11 +301,13 @@ body{
 
 .end_last li a {
   color: white;
+  font-size: 16px;
 }
 
 .footer{
   text-align: center;
   font-weight: bold;
+  font-size: 18px;
   word-spacing: 2px;
 }
 
