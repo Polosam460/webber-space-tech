@@ -1,5 +1,4 @@
 @media screen and (max-width: 310px){
-    
     header{
         padding: 15px;
     }
@@ -23,7 +22,7 @@
 
 @media screen and (max-width: 480px) {
     body{
-        font-size: 98%;
+        font-size: 1.0rem;
     }
     .header{
         padding: 10px;
@@ -42,10 +41,10 @@
  
 }
 
-@media screen and (max-width: 766px){
+@media screen and (max-width: 767px){
 
 body{
-    font-size: 100%;
+    font-size: 1.0rem;
 }
  
     .container_three{
@@ -56,9 +55,9 @@ body{
     }
 }
 
-@media screen and (min-width: 767px) and (max-width: 50000px){
+@media screen and (min-width: 768px) and (max-width: 50000px){
       body{
-          font-size: 100%;
+          font-size: 1.2rem;
       }
  
          .header .nav .menu li a{

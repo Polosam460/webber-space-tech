@@ -188,7 +188,6 @@ body{
 }
 .serve{
   color: green;
-  font-size: 30px;
   text-align: center;
   text-decoration: underline;
   text-decoration-color: limegreen;
@@ -227,7 +226,6 @@ body{
 }
 
 .container_three .container_item .ser_head{
-  font-size: 21px;
   font-weight: bold;
 }
 
@@ -239,18 +237,16 @@ body{
 
 .container_five .mis_head{
   text-align: center;
-  font-size: 130%;
   margin-bottom: 5px;
 }
 
 .container_five .mis_par{
   text-align: center;
-  font-size: 104%;
 }
 
 .container_five .con_head{
   text-align: center;
-  font-size: 150%;
+  
 }
 
 .container_five .icon_con{
@@ -266,7 +262,6 @@ body{
 }
 .mail{
   text-align: center;
-  font-size: 105%;
 }
 .end_nav_list{
   list-style: none;
@@ -303,7 +298,6 @@ body{
 .footer{
   text-align: center;
   font-weight: bold;
-  font-size: 97%;
   word-spacing: 2px;
 }
 
